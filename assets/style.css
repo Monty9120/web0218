@@ -1,0 +1,33 @@
+svg{
+	border: 1px grey solid;
+	background-color: #fff;
+	padding: 1em;
+	font-family: Raleway;
+	rgba(255,255,255,0.5)
+
+	
+}
+
+.svg-background{
+	width: 100px;
+	height: 100px;
+}
+
+.x-label{
+
+}
+
+.data-bar{
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	border-radius: 10px;
+	transition: all ease 0.5s;
+	
+}
+
+.tooltip{
+	fill: rgba(200,200,200,0.7);
+	
+}
+
+.title{
+}
